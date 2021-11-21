@@ -1,7 +1,9 @@
+## [English readme](README.en.md)
+
 # Video2ASCII
 
 
-## Video2ASCII позволяет проигрывать видео в Windows CMD
+Video2ASCII позволяет проигрывать видео в Windows CMD
 
 ## Требования
 - [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
