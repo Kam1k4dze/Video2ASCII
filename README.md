@@ -38,7 +38,7 @@ git clone https://github.com/vadimkacool/Video2ASCII
 ```
 Video2ASCII.exe PathToFile Width Height
 ```
-- `PathToFile` - путь до файла
+- `PathToFile` - путь до файла в "". Не используйте `\`, замените его на `/` или `\\`
 - `Width` - Ширина командной строки в символах
 - `Height` - Высота командной строки в символах
 
