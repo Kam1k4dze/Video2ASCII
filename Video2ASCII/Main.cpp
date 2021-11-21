@@ -1,12 +1,8 @@
 #include <opencv2/opencv.hpp>
 #include <iostream>
 #include <string>
-#include <fstream>
 #include <Windows.h>
 #include <stdio.h>
-#include <stdlib.h>
-#include <chrono>
-
 
 #pragma comment(lib, "Winmm.lib")
 
