@@ -38,14 +38,15 @@ git clone https://github.com/vadimkacool/Video2ASCII
 ```
 Video2ASCII.exe PathToFile Width Height
 ```
-- `PathToFile` - path to file in `""`
-- `Width` - The width of the command line in characters
-- `Height` - The height of the command line in characters
+- `PathToFile` - path to file in `""`. Don't use `\`, replace it with `/` or `\\`
+- `Width` - The width of the command line in characters.
+- `Height` - The height of the command line in characters.
 
 To keep the proportions, when choosing `Width` and `Height`, take into account the size of the font sign in `cmd` in pixels.
 
-- `right-click` on the top panel `cmd` Properties 
-  - Font
+You can view and change it in:
+- `right-click` on the top panel `cmd` 
+  - Properties 
+    - Font
 
 
-Here, you can also change the font and its size
