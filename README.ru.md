@@ -49,3 +49,14 @@ Video2ASCII.exe PathToFile Width Height
 
 
 Здесь же, можно изменить шрифт и его размер
+
+## Примеры
+
+
+https://user-images.githubusercontent.com/40305144/142914078-6e5fd419-4e05-4779-8bc0-9c8110fc5c90.mp4
+
+
+
+https://user-images.githubusercontent.com/40305144/142915540-402ae262-9c98-4408-ab40-65cbdecb9fcd.mp4
+
+
