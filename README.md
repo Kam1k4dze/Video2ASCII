@@ -20,7 +20,7 @@ Video2ASCII allows you to play video in Windows CMD
 - Download and install version `4.5.4` or higher
 - Run in `cmd`
 ```
-setx -m OPENCV_DIR C:\opencv\build\x64\vc15\bin
+setx -m OPENCV_DIR C:\opencv\build\x64\vc15
 ```
 
 #### 3
