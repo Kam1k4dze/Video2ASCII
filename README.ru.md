@@ -20,7 +20,7 @@ Video2ASCII позволяет проигрывать видео в Windows CMD
 - Скачайте и установите версию `4.5.4` или новее
 - Выполните в `cmd`
 ```
-setx -m OPENCV_DIR C:\opencv\build\x64\vc15\bin
+setx -m OPENCV_DIR C:\opencv\build\x64\vc15
 ```
 
 #### 3
