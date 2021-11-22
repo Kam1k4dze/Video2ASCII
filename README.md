@@ -1,51 +1,51 @@
-## [English readme](README.en.md)
+## [Русская версия](README.ru.md)
 
 # Video2ASCII
 
 
-Video2ASCII позволяет проигрывать видео в Windows CMD
-
-## Требования
+Video2ASCII allows you to play video in Windows CMD
+## Requirements
 - [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
 - [OpenCV](https://opencv.org/releases/)
-## Установка
 
+
+## Installation
 
 #### 1.ffmpeg
- - Скачайте последний билд [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
- - Распакуйте в `C:\`
- - Добавте `C:\ffmpeg\bin` в `PATH`
+ - Download latest build [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
+ - Unpack to `C:\`
+ - Add `C:\ffmpeg\bin` to `PATH`
 
 #### 2.OpenCV
-- Скачайте и установите версию `4.5.4` или новее
-- Выполните в `cmd`
+- Download and install version `4.5.4` or higher
+- Run in `cmd`
 ```
 setx -m OPENCV_DIR C:\opencv\build
 ```
 
 #### 3
-- Скачайте скомпилированный [код](https://github.com/vadimkacool/Video2ASCII/releases/latest)
+- Download compiled [code](https://github.com/vadimkacool/Video2ASCII/releases/latest)
 
-##### или
+##### OR
 
-- Скачайте исходный код
+- Download the source code
 ```
 git clone https://github.com/vadimkacool/Video2ASCII
 ```
 
-## Использование
+## Usage
 
 ```
 Video2ASCII.exe PathToFile Width Height
 ```
-- `PathToFile` - путь до файла в "". Не используйте `\`, замените его на `/` или `\\`
-- `Width` - Ширина командной строки в символах
-- `Height` - Высота командной строки в символах
+- `PathToFile` - path to file in `""`. Don't use `\`, replace it with `/` or `\\`
+- `Width` - The width of the command line in characters.
+- `Height` - The height of the command line in characters.
 
-Для сохранения пропорций, при выборе `Width` и `Height` берите во внимание размер знака шрифта `cmd` в пикселях.
+To keep the proportions, when choosing `Width` and `Height`, take into account the size of the font sign in `cmd` in pixels.
 
-- `ПКМ` по верхней панели `cmd` Свойства 
-  - Шрифт
+You can view and change it in:
+- `right-click` on the top panel `cmd` 
+  - Properties 
+    - Font
 
-
-Здесь же, можно изменить шрифт и его размер
