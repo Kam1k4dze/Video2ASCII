@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/40305144/142915540-402ae262-9c98-4408-
  - Add `C:\ffmpeg\bin` to `PATH`
 
 #### 2.OpenCV
-- [Download](https://opencv.org/releases/) and install version `4.5.4` or higher
+- Download and install [OpenCV](https://opencv.org/releases/) version `4.5.4` or higher
 - Run in `cmd`
 ```
 setx -m OPENCV_DIR C:\opencv\build\x64\vc15
