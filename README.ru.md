@@ -20,7 +20,9 @@ https://user-images.githubusercontent.com/40305144/142915540-402ae262-9c98-4408-
 - [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
 - [OpenCV](https://opencv.org/releases/)
 ## Установка
+### **Скачайте [Video2ASCII witch ffmpeg and OpenCV](https://github.com/vadimkacool/Video2ASCII/releases/latest)**
 
+### Или установите их вручную
 
 #### 1.ffmpeg
  - Скачайте последний билд [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
