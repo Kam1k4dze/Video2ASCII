@@ -2,6 +2,9 @@
 
 # Video2ASCII
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/vadimkacool/Video2ASCII?color=gree)
+![GitHub Repo stars](https://img.shields.io/github/stars/vadimkacool/Video2ASCII)
 
 Video2ASCII позволяет проигрывать видео в Windows CMD
 
