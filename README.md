@@ -28,26 +28,26 @@ https://user-images.githubusercontent.com/40305144/142915540-402ae262-9c98-4408-
 
 ### **Download [Video2ASCII witch ffmpeg and OpenCV](https://github.com/vadimkacool/Video2ASCII/releases/latest)**
 
-### OR
+### Or install them manually
 
-#### 1.ffmpeg
- - Download latest build [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
- - Unpack to `C:\`
- - Add `C:\ffmpeg\bin` to `PATH`
+- #### 1.ffmpeg
+   - Download latest build [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
+   - Unpack to `C:\`
+   - Add `C:\ffmpeg\bin` to `PATH`
 
-#### 2.OpenCV
-- Download and install [OpenCV](https://opencv.org/releases/) version `4.5.4` or higher
-- Run in `cmd`
+- #### 2.OpenCV
+  - Download and install [OpenCV](https://opencv.org/releases/) version `4.5.4` or higher
+  - Run in `cmd`
 ```
 setx -m OPENCV_DIR C:\opencv\build\x64\vc15
 ```
 
-#### 3
-- Download compiled [code](https://github.com/vadimkacool/Video2ASCII/releases/latest)
+- #### 3
+  - Download compiled [code](https://github.com/vadimkacool/Video2ASCII/releases/latest)
 
-##### OR
+  ##### OR
 
-- Download the source code
+  - Download the source code
 ```
 git clone https://github.com/vadimkacool/Video2ASCII
 ```
