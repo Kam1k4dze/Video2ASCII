@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/40305144/142915540-402ae262-9c98-4408-
 
 ## Installation
 
-### **Download [Video2ASCII witch ffmpeg and OpenCV](https://github.com/vadimkacool/Video2ASCII/releases/latest)**
+### **Download [Video2ASCII with ffmpeg and OpenCV](https://github.com/vadimkacool/Video2ASCII/releases/latest)**
 
 ### Or install them manually
 
